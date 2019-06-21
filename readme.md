@@ -2,6 +2,7 @@
     * git clone https://github.com/jeffbum/structural.git
     * yarn install
     * npm run dev
+    * localhost:3000 in browser
 
 # Things to add:
     1.) search functionality
