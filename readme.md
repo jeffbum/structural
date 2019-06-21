@@ -1,8 +1,6 @@
 # download and run project
     * git clone https://github.com/jeffbum/structural.git
     * yarn install
-
-# run the project
     * npm run dev
 
 # Things to add:
