@@ -12,5 +12,5 @@
     4.) editing tasks
     5.) UI to show when somethign is complete (strikethrough or something instead of different list all together.)
 
-#Thanks for taking the time to check this out!
+# Thanks for taking the time to check this out!
 
