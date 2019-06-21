@@ -11,6 +11,7 @@
     3.) assigning tasks
     4.) editing tasks
     5.) UI to show when somethign is complete (strikethrough or something instead of different list all together.)
+    6.) check boxes moving tasks back and forth
 
 # Thanks for taking the time to check this out!
 
