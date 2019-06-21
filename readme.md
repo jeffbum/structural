@@ -1,5 +1,6 @@
 # download and run project
     * git clone https://github.com/jeffbum/structural.git
+    * cd structural
     * yarn install
     * npm run dev
     * localhost:3000 in browser
